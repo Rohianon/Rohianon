@@ -8,3 +8,20 @@ Match with peers and code collaboratively at [Chaptr Devlabs](https://chaptr.dev
 **Follow me** or **reach me** on the following channels: *(Click badge to access profile link)*
 
 [<img src="https://img.shields.io/badge/@anon_rohi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/@anon_rohi) [<img src="https://img.shields.io/badge/Rohianon%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rohi-anon-38a026167/) [<img src="https://img.shields.io/badge/rohianon48@gmail.com%20-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rohianon48@gmail.com)
+
+
+
+- ⚡ Fun fact **sudo chmod ....**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohianon&show_icons=true&locale=en&layout=compact" alt="rohianon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohianon&show_icons=true&locale=en" alt="rohianon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohianon&" alt="rohianon" /></p>
+
+Attachments area
