@@ -15,7 +15,7 @@ Website coming soon.
 
 ### Blogs posts
 <!---BLOG-POST-LIST:START-->
-- The $6^{th}$ June TwitteR use case
+- [The 6<sup>th</sup>  June TwitteR use case](https://medium.com/@rohianon48/the-kenyan-6th-june-case-using-twitter-8d6fb422abd2)
 <!---BLOG-POST-LIST:END-->
 
 
