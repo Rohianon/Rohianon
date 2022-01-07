@@ -14,9 +14,9 @@ Website coming soon.
 - ⚡ Fun fact **sudo chmod ....**
 
 ### Blogs posts
-<BLOG-POST-LIST:START>
+<!---BLOG-POST-LIST:START-->
 - The $6^{th}$ June TwitteR use case
-<BLOG-POST-LIST:END>
+<!---BLOG-POST-LIST:END-->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohianon&show_icons=true&locale=en&layout=compact" alt="rohianon" /></p>
