@@ -1,6 +1,6 @@
 ### Lead AI Developer at Artive.
 #### Statistical Data Scientist & Machine Learning Expert| Deep Learning Enthusiast |NLP Proffessional | Chatbot Designer | Technical Writing
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch%20-%23E34F26.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%20-orange"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch%20-%23E34F26.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=Java&logoColor=Orange"/>
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 
 Website coming soon.
