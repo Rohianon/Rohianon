@@ -1,4 +1,4 @@
-### Junior Data Scientist @ Dalberg Data Insigts.
+### Data Scientist @ Dalberg Data Insigts.
 #### React Dashboard Dev | Statistical Data Scientist & Machine Learning Expert| Deep Learning Enthusiast |NLP Proffessional | Chatbot Designer
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/react-aliceblue?logoColor=blue&style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/typescript-gold?logoColor=gold&style=for-the-badge&logo=typescript"/>
  <img src="https://img.shields.io/badge/pytorch%20-%23E34F26.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript%20-%23E34F26.svg?&style=for-the-badge&logo=JavaScript&logoColor=magenta"/>
